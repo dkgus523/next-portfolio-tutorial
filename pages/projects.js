@@ -11,7 +11,7 @@ export default function Projects({ projects }) {
         <Head>
           <title>A Hyeon's Portfolio</title>
           <meta name="description" content="오늘도 빡코딩!" />
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/fox-favicon.png" />
         </Head>
         <h1 className="text-4xl font-bold sm:text-6xl">
           총 프로젝트 :
