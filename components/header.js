@@ -29,19 +29,23 @@ export default function Header() {
             </a>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
-            <Link href="/" legacyBehavior>
+            <Link href="/about-me" legacyBehavior>
               <a className="mr-5 hover:text-gray-900">About me</a>
             </Link>
-            <a className="mr-5 hover:text-gray-900">Skills</a>
+            <Link href="/skills" legacyBehavior>
+              <a className="mr-5 hover:text-gray-900">Skills</a>
+            </Link>
             <Link href="/projects" legacyBehavior>
               <a className="mr-5 hover:text-gray-900">Projects</a>
             </Link>
-            <a className="mr-5 hover:text-gray-900">Career</a>
+            <Link href="/career" legacyBehavior>
+              <a className="mr-5 hover:text-gray-900">Career</a>
+            </Link>
             <a
               href="https://open.kakao.com/o/sXBeZVYg"
               className="mr-5 hover:text-gray-900"
             >
-              contact
+              Contact
             </a>
           </nav>
           {/* 다크모드 토글 버튼 작업해야함 */}
