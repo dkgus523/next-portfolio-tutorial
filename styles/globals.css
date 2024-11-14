@@ -69,3 +69,17 @@ p {
     border-radius: 5px;
     font-weight: bold;
 }
+
+/* 타이핑 애니메이션 css */
+.cursor {
+    display: inline-block;
+    width: 1px;
+    color: var(--primary);
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
