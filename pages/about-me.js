@@ -5,7 +5,7 @@ export default function AboutMe(){
     return (
         <Layout>
             <Head>
-                <title>A Hyeon's Portfolio</title>
+                <title>A Hyeon&apos;s Portfolio</title>
                 <meta name="description" content="오늘도 빡코딩!" />
                 <link rel="icon" href="/fox-favicon.png" />
             </Head>
