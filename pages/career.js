@@ -18,29 +18,54 @@ export default function Career() {
               <div className="h-full w-1 bg-gray-200 pointer-events-none"></div>
             </div>
             <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">
-              1
+              2024
             </div>
             <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
               <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  className="w-12 h-12"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
-                </svg>
+              <img alt="feature" className="object-cover object-center h-500 w-500 rounded-full" src="/playauto.jpg"/>
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Shooting Stars
+                  (주) 플레이오토
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  2021.06 ~ ing
+                </p>
+                <p className="leading-relaxed">
+                  솔루션 통합관리 솔루션
+                </p>
+                <p className="leading-relaxed">
+                  1. Playauto 2.0 솔루션 개발 및 유지보수 <br/>
+                  2. Playauto 2.0 OpenAPI 개발 및 유지보수 <br/>
+                  3. 플레이오토 홈페이지 개발 및 유지보수 <br/>
+                </p>
+                <a className="mt-3 text-indigo-500 inline-flex items-center" href="https://scalloped-calendula-606.notion.site/128b8a3d32cb800593dee029516bf474">경력기술서 보러가기 </a>
+              </div>
+            </div>
+          </div>
+          <div className="flex relative pb-20 sm:items-center md:w-2/3 mx-auto">
+            <div className="h-full w-6 absolute inset-0 flex items-center justify-center">
+              <div className="h-full w-1 bg-gray-200 pointer-events-none"></div>
+            </div>
+            <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">
+              2020
+            </div>
+            <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
+              <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
+              <img alt="feature" className="object-cover object-center h-500 w-500 rounded-full" src="/exsoft.png"/>
+              </div>
+              <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
+                <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
+                  엑스웨이소프트
+                </h2>
+                <p className="leading-relaxed">
+                  2020.03 ~ 2020.04
+                </p>
+                <p className="leading-relaxed">
+                시스템 소프트웨어 개발 및 공급업
+                </p>
+                <p className="leading-relaxed">
+                  하나투어와 협업중이었으며 다른 개발자분들이 하나투어에 프로젝트로 개발하신 것을 QA 하는 작업을 하였습니다.
                 </p>
               </div>
             </div>
@@ -50,62 +75,24 @@ export default function Career() {
               <div className="h-full w-1 bg-gray-200 pointer-events-none"></div>
             </div>
             <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">
-              2
+              2019
             </div>
             <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
               <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  className="w-12 h-12"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                </svg>
+              <img alt="feature" className="object-cover object-center h-500 w-500 rounded-full" src="/consumer.jpg"/>
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  The Catalyzer
+                  컨슈머 인사이트
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  2019.06 ~ 2019.07
                 </p>
-              </div>
-            </div>
-          </div>
-          <div className="flex relative pb-20 sm:items-center md:w-2/3 mx-auto">
-            <div className="h-full w-6 absolute inset-0 flex items-center justify-center">
-              <div className="h-full w-1 bg-gray-200 pointer-events-none"></div>
-            </div>
-            <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">
-              3
-            </div>
-            <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
-              <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  className="w-12 h-12"
-                  viewBox="0 0 24 24"
-                >
-                  <circle cx="12" cy="5" r="3"></circle>
-                  <path d="M12 22V8M5 12H2a10 10 0 0020 0h-3"></path>
-                </svg>
-              </div>
-              <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
-                <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  The 400 Blows
-                </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  시장조사 및 여론조사업
+                </p>
+                <p className="leading-relaxed">
+                마케팅 조사회사로서 리서치된 자료를 엑셀을 통해 정리 및 솔루션을 이용하여 html, jquery, javascript 등을 활용한 설문 개발하였습니다.
                 </p>
               </div>
             </div>
@@ -115,30 +102,24 @@ export default function Career() {
               <div className="h-full w-1 bg-gray-200 pointer-events-none"></div>
             </div>
             <div className="flex-shrink-0 w-6 h-6 rounded-full mt-10 sm:mt-0 inline-flex items-center justify-center bg-indigo-500 text-white relative z-10 title-font font-medium text-sm">
-              4
+              2019
             </div>
             <div className="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
               <div className="flex-shrink-0 w-24 h-24 bg-indigo-100 text-indigo-500 rounded-full inline-flex items-center justify-center">
-                <svg
-                  fill="none"
-                  stroke="currentColor"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth="2"
-                  className="w-12 h-12"
-                  viewBox="0 0 24 24"
-                >
-                  <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-                  <circle cx="12" cy="7" r="4"></circle>
-                </svg>
+              <img alt="feature" className="object-cover object-center h-500 w-500 rounded-full" src="/sprintec.jpg"/>
               </div>
               <div className="flex-grow sm:pl-6 mt-6 sm:mt-0">
                 <h2 className="font-medium title-font text-gray-900 mb-1 text-xl">
-                  Neptune
+                  스프린텍
                 </h2>
                 <p className="leading-relaxed">
-                  VHS cornhole pop-up, try-hard 8-bit iceland helvetica. Kinfolk
-                  bespoke try-hard cliche palo santo offal.
+                  2019.01 ~ 2019.02
+                </p>
+                <p className="leading-relaxed">
+                  컴퓨터시스템 통합 자문 및 구축 서비스업
+                </p>
+                <p className="leading-relaxed">
+                  html, jquery, javascript 등을 활용하여 회사 웹페이지를 제작해 회사 홍보에 기여했습니다.
                 </p>
               </div>
             </div>
