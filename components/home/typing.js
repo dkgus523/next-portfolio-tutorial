@@ -41,7 +41,6 @@ export default function DynamicTyping() {
     <div className="heading">
       <div>
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">{displayText}</h1>
-        <span className="cursor">|</span>
       </div>
     </div>
   );
