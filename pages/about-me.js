@@ -29,7 +29,7 @@ export default function AboutMe(){
                     되겠습니다.
                     </p>
                     <a className="mt-3 text-indigo-500 inline-flex items-center">Learn More
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                        <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                         <path d="M5 12h14M12 5l7 7-7 7"></path>
                         </svg>
                     </a>
@@ -48,7 +48,7 @@ export default function AboutMe(){
                         <h2 className="text-gray-900 text-lg title-font font-medium mb-3">GitHub</h2>
                         <p className="leading-relaxed text-base">소스 코드 저장소</p>
                         <a className="mt-3 text-indigo-500 inline-flex items-center" href="https://github.com/dkgus523">github.com/dkgus523
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                        <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                             <path d="M5 12h14M12 5l7 7-7 7"></path>
                         </svg>
                         </a>
@@ -64,7 +64,7 @@ export default function AboutMe(){
                         <h2 className="text-gray-900 text-lg title-font font-medium mb-3">Blog</h2>
                         <p className="leading-relaxed text-base">공부 및 지식 공유 목적의 블로그</p>
                         <a className="mt-3 text-indigo-500 inline-flex items-center" href="https://dkgusdl8.tistory.com/">dkgusdl8.tistory.com
-                        <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
+                        <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                             <path d="M5 12h14M12 5l7 7-7 7"></path>
                         </svg>
                         </a>
