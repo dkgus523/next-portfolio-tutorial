@@ -83,3 +83,38 @@ p {
         opacity: 0;
     }
 }
+
+/* about-me 사진 뒤집기 효과 */
+/* 전체 flip card를 감싸는 컨테이너의 3D 효과 설정 */
+.perspective {
+    perspective: 1000px;
+}
+
+/* 카드 전체를 회전시키는 내부 박스 */
+.flip-card-inner {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    position: relative;
+}
+
+/* 카드의 앞면 */
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* 카드 뒷면 */
+.flip-card-back {
+    transform: rotateY(180deg);
+}
+
+/* 마우스 오버 시 뒤집히는 효과 */
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
