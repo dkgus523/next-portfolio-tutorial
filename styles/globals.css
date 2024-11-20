@@ -118,3 +118,51 @@ p {
 .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
 }
+
+/* 반응형 헤더 메뉴  */
+/* 기본 스타일 */
+#menu a {
+    color: white;
+    padding: 10px 20px;
+}
+
+/* 데스크톱 스타일 */
+@media screen and (min-width: 625px) {
+    #menu {
+        display: flex;
+    }
+
+    .fas {
+        display: none;
+    }
+}
+
+/* 모바일 스타일 */
+@media screen and (max-width: 625px) {
+    #menu {
+        display: none;
+        flex-direction: column;
+        background-color: #333;
+        position: absolute;
+        top: 60px;
+        right: 10px;
+        width: 200px;
+        border-radius: 8px;
+        z-index: 1000;
+    }
+
+    #menu a {
+        color: white;
+        padding: 15px;
+        border-bottom: 1px solid gray;
+    }
+
+    .fas {
+        display: block;
+        color: #333;
+    }
+
+    #menu a:last-child {
+        border-bottom: none;
+    }
+}
