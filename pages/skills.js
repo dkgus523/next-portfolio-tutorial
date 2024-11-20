@@ -173,7 +173,7 @@ const categories = ["Frontend", "Backend", "DevOps", "Developer Tools"];
 const categoryImages = {
   Frontend: "/frontend.png",
   Backend: "/backend.png",
-  DevOps: "/devops.png",
+  DevOps: "/devOps.png",
   "Developer Tools": "/developer_tools.png",
 };
 
